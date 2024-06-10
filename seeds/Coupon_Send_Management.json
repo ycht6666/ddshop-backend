@@ -1,0 +1,101 @@
+[
+  {
+    "id": 4,
+    "user_id": "1",
+    "coupon_id": "6",
+    "coupon_name": null,
+    "usage_status": "已使用",
+    "usage_time": "2024-03-23 12:14:42",
+    "send_time": "2024-03-20 22:14:42"
+  },
+  {
+    "id": 5,
+    "user_id": "1",
+    "coupon_id": "8",
+    "coupon_name": null,
+    "usage_status": "已使用",
+    "usage_time": "2024-03-23 12:14:42",
+    "send_time": "2024-03-20 22:14:42"
+  },
+  {
+    "id": 6,
+    "user_id": "1",
+    "coupon_id": "9",
+    "coupon_name": null,
+    "usage_status": "已使用",
+    "usage_time": "2024-03-23 12:14:42",
+    "send_time": "2024-03-20 22:14:42"
+  },
+  {
+    "id": 7,
+    "user_id": "1",
+    "coupon_id": "10",
+    "coupon_name": null,
+    "usage_status": "已使用",
+    "usage_time": "2024-03-23 12:14:42",
+    "send_time": "2024-03-20 22:14:42"
+  },
+  {
+    "id": 8,
+    "user_id": "1",
+    "coupon_id": "11",
+    "coupon_name": null,
+    "usage_status": "已使用",
+    "usage_time": "2024-03-23 12:14:42",
+    "send_time": "2024-03-20 22:14:42"
+  },
+  {
+    "id": 9,
+    "user_id": "1",
+    "coupon_id": "11",
+    "coupon_name": null,
+    "usage_status": "已使用",
+    "usage_time": "2024-03-23 12:14:42",
+    "send_time": "2024-03-20 22:14:42"
+  },
+  {
+    "id": 10,
+    "user_id": "1",
+    "coupon_id": "12",
+    "coupon_name": null,
+    "usage_status": "已使用",
+    "usage_time": "2024-03-23 12:14:42",
+    "send_time": "2024-03-20 22:14:42"
+  },
+  {
+    "id": 11,
+    "user_id": "1",
+    "coupon_id": "15",
+    "coupon_name": null,
+    "usage_status": "已使用",
+    "usage_time": "2024-03-23 12:14:42",
+    "send_time": "2024-03-20 22:14:42"
+  },
+  {
+    "id": 12,
+    "user_id": "1",
+    "coupon_id": "15",
+    "coupon_name": null,
+    "usage_status": "未使用",
+    "usage_time": "",
+    "send_time": "2024-03-20 22:14:42"
+  },
+  {
+    "id": 13,
+    "user_id": "1",
+    "coupon_id": "15",
+    "coupon_name": null,
+    "usage_status": "未使用",
+    "usage_time": "",
+    "send_time": "2024-03-20 22:14:42"
+  },
+  {
+    "id": 14,
+    "user_id": "1",
+    "coupon_id": "16",
+    "coupon_name": null,
+    "usage_status": "未使用",
+    "usage_time": "",
+    "send_time": "2024-03-20 22:14:42"
+  }
+]

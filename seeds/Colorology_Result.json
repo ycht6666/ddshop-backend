@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "user_id": "1",
+    "colorology_checklist_id": "3"
+  },
+  {
+    "id": 2,
+    "user_id": "2",
+    "colorology_checklist_id": "1"
+  },
+  {
+    "id": 3,
+    "user_id": "5",
+    "colorology_checklist_id": "3"
+  },
+  {
+    "id": 4,
+    "user_id": "10",
+    "colorology_checklist_id": "4"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "colorology_checklist_id": "1",
+    "basic_color_upper_body_text_1": "米白色",
+    "basic_color_upper_body_text_2": "灰色",
+    "basic_color_upper_body_text_3": "藍色",
+    "basic_color_lower_body_text_1": "藍色",
+    "basic_color_lower_body_text_2": "米白色",
+    "basic_color_lower_body_text_3": "棕色",
+    "bright_color_upper_body_text_1": "粉紅色",
+    "bright_color_upper_body_text_2": "紅色",
+    "bright_color_lower_body_text_1": "黃色",
+    "bright_color_lower_body_text_2": "淺藍色"
+  },
+  {
+    "id": 2,
+    "colorology_checklist_id": "2",
+    "basic_color_upper_body_text_1": "白色",
+    "basic_color_upper_body_text_2": "淺灰色",
+    "basic_color_upper_body_text_3": "灰藍色",
+    "basic_color_lower_body_text_1": "深藍色",
+    "basic_color_lower_body_text_2": "白色",
+    "basic_color_lower_body_text_3": "棕色",
+    "bright_color_upper_body_text_1": "淺藍色",
+    "bright_color_upper_body_text_2": "覆盆子色",
+    "bright_color_lower_body_text_1": "黃色",
+    "bright_color_lower_body_text_2": "紫色"
+  },
+  {
+    "id": 3,
+    "colorology_checklist_id": "3",
+    "basic_color_upper_body_text_1": "香草色",
+    "basic_color_upper_body_text_2": "淺灰色",
+    "basic_color_upper_body_text_3": "巧克力色",
+    "basic_color_lower_body_text_1": "巧克力色",
+    "basic_color_lower_body_text_2": "淺棕色",
+    "basic_color_lower_body_text_3": "深灰色",
+    "bright_color_upper_body_text_1": "鮭魚粉色",
+    "bright_color_upper_body_text_2": "莫蘭迪黃色",
+    "bright_color_lower_body_text_1": "紅色",
+    "bright_color_lower_body_text_2": "淺藍色"
+  },
+  {
+    "id": 4,
+    "colorology_checklist_id": "4",
+    "basic_color_upper_body_text_1": "白色",
+    "basic_color_upper_body_text_2": "灰色",
+    "basic_color_upper_body_text_3": "酒紅色",
+    "basic_color_lower_body_text_1": "灰色",
+    "basic_color_lower_body_text_2": "灰藍色",
+    "basic_color_lower_body_text_3": "黑色",
+    "bright_color_upper_body_text_1": "紫色",
+    "bright_color_upper_body_text_2": "桃紅色",
+    "bright_color_lower_body_text_1": "粉紅色",
+    "bright_color_lower_body_text_2": "軍綠色"
+  }
+]
